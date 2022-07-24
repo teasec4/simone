@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.8a685450.css",
-    "main.js": "/static/js/main.44e4839c.js",
+    "main.js": "/static/js/main.d2466014.js",
+    "static/media/simne_fot.jpg": "/static/media/simne_fot.068edefc92926d2317cf.jpg",
+    "static/media/undraw_welcoming_re_x0qo.svg": "/static/media/undraw_welcoming_re_x0qo.3a57f626a165f171706056ef46261043.svg",
     "index.html": "/index.html",
     "main.8a685450.css.map": "/static/css/main.8a685450.css.map",
-    "main.44e4839c.js.map": "/static/js/main.44e4839c.js.map"
+    "main.d2466014.js.map": "/static/js/main.d2466014.js.map"
   },
   "entrypoints": [
     "static/css/main.8a685450.css",
-    "static/js/main.44e4839c.js"
+    "static/js/main.d2466014.js"
   ]
 }
